@@ -21,6 +21,6 @@ Soy Luis Duque, Estudiante de Desarrollo de Software y actualmente estoy enfocad
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-##Estadísticas ⭐💻
+## Estadísticas ⭐💻
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=BravoLFD&theme=ocean&hide_border=true&border_radius=16)
 ![Top Languages](https://ghstats.dev/api/langs?username=BravoLFD&theme=nightowl&layout=donut_vertical)
