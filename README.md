@@ -13,8 +13,6 @@ Soy Luis Duque, Estudiante de Desarrollo de Software y actualmente estoy enfocad
 
 💼 **LinkedIn:** [Luis Duque](https://www.linkedin.com/in/luis-duquepulgarin-desoft/)
 
-## Habilidades 
-
 ### *Lenguajes*
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
