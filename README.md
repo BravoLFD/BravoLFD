@@ -6,7 +6,7 @@ Soy Luis Duque, Estudiante de Desarrollo de Software y actualmente estoy enfocad
 **🌱 Aprendiendo:** Java, POO, Spring Boot, APIs REST, bases de datos y desarrollo backend  
 **🛠️ Trabajando en:** Proyectos personales para llevar la teoría a la práctica  
 **🐳 Explorando:** Git, GitHub, Linux, Docker y despliegue de aplicaciones   
-**🎯 Objetivo:** Convertirme en desarrollador Full Stack y posteriormente profundizar en IA, ciberseguridad y análisis de datos
+**🎯 Objetivo:** Convertirme en desarrollador Full Stack y posteriormente profundizar en IA
 
 ## Habilidades 
 
