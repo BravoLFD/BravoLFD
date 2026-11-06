@@ -6,7 +6,7 @@ Soy Luis Duque, Estudiante de Desarrollo de Software y actualmente estoy enfocad
 **🌱 Aprendiendo:** Java, POO, Spring Boot, APIs REST, bases de datos y desarrollo backend  
 **🛠️ Trabajando en:** Proyectos personales para llevar la teoría a la práctica  
 **🐳 Explorando:** Git, GitHub, Linux, Docker y despliegue de aplicaciones   
-**🎯 Objetivo:** Convertirme en desarrollador Full Stack y posteriormente profundizar en IA
+**🎯 Objetivo:** Convertirme en desarrollador Full Stack y posteriormente profundizar en IA  
 **Contacto:** <a href="https://www.linkedin.com/in/luis-duquepulgarin-desoft/" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/linkedin.svg"
        width="35"
