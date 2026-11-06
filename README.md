@@ -7,7 +7,7 @@ Soy Luis Duque, Estudiante de Desarrollo de Software y actualmente estoy enfocad
 **🛠️ Trabajando en:** Proyectos personales para llevar la teoría a la práctica  
 **🐳 Explorando:** Git, GitHub, Linux, Docker y despliegue de aplicaciones   
 **🎯 Objetivo:** Convertirme en desarrollador Full Stack y posteriormente profundizar en IA
-
+![Linkedin](https://www.linkedin.com/in/luis-duquepulgarin-desoft/?name=Fundamentos%20de%20Programaci%C3%B3n%20e%20Ingenier%C3%ADa%20de%20Software&organizationId=2822346&issueYear=2026&issueMonth=9&certUrl=https%3A%2F%2Fplatzi.com%2Fp%2FLuisDuque%2Fruta%2F30052-ruta%2Fdiploma%2Fdetalle%2F&certId=cb90f09e-5d26-4f23-af15-29faefb946a9) ![Linkedin]
 ## Habilidades 
 
 ### *Lenguajes*
